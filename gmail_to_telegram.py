@@ -13,9 +13,9 @@ import requests
 # Gmail API scopes
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 
-# Telegram Bot Token and Chat ID (replace with your actual token and chat ID)
-TELEGRAM_TOKEN = '8163570051:AAGhPwPp0xLhgg6XzAySq9Lg-sG7d_EepqI'
-TELEGRAM_CHAT_ID = '942279686'
+# Telegram Bot Token and Chat ID 
+TELEGRAM_TOKEN = 'your actual token'
+TELEGRAM_CHAT_ID = 'chat ID'
 
 
 def authenticate_gmail():
